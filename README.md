@@ -11,6 +11,9 @@
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute to AksaraLLM |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Our community code of conduct |
 | [GOVERNANCE.md](GOVERNANCE.md) | Decision-making process & structure |
+| [SECURITY.md](SECURITY.md) | Security policy & vulnerability reporting |
+| [GOOD_FIRST_ISSUES.md](GOOD_FIRST_ISSUES.md) | Concrete starter tasks for new contributors |
+| [TRANSLATION_GUIDE.md](TRANSLATION_GUIDE.md) | How to translate prompts/data/docs (ID/JV/SU/MS) |
 | [GPU_DONATIONS.md](GPU_DONATIONS.md) | How to donate compute resources |
 | [rfcs/](rfcs/) | Request for Comments (major decisions) |
 | [meeting-notes/](meeting-notes/) | Weekly meeting notes |
