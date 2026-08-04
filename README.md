@@ -8,6 +8,7 @@
 
 | Document | Description |
 |----------|-------------|
+| [GETTING_STARTED.md](GETTING_STARTED.md) | End-to-end: tokenizer → pre-training → SFT/DPO → export → eval → run |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute to AksaraLLM |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Our community code of conduct |
 | [GOVERNANCE.md](GOVERNANCE.md) | Decision-making process & structure |
